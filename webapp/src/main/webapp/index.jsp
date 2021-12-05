@@ -18,8 +18,8 @@
     <input type="text" placeholder="Enter Email" name="email" id="email" required>
     <br>
     
-    <label for="Address"><b>Enter <Address></Address></b></label>
-    <input type="text" 
+    <label for="Address"><b>Enter Address</b></label>
+    <input type="text" placeholder="Enter Address" name="Address" id="Address" required>
     <br>
 
     <label for="psw"><b>Password</b></label>
